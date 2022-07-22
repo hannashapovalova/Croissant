@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: brown;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 25px;
+}
+a {
+    color: orange;
+}
